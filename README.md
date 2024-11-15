@@ -2,12 +2,15 @@
 
 ![GDG Community Page](GDG-Community-Page.jpg)
 
+---
+
 Hello contributors, Welcome to [Google Developer Group on Campus MIT’s](https://gdg.community.dev/gdg-on-campus-madras-institute-of-technology-chennai-india/) "Introduction to GitHub & Open Source Workshop".
 
-We hope all are doing great! :octocat:
+We hope you're all doing great! :octocat:
 
-Before getting started, understand how the Open Source Contribution works - [GUIDELINES.MD](GUIDELINES.md)
+Before getting started, please review how Open Source Contribution works - [GUIDELINES.MD](GUIDELINES.md)
 
+--- 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Important Points for Contributors](#important-points-for-contributors)
@@ -20,7 +23,7 @@ Before getting started, understand how the Open Source Contribution works - [GUI
 
 ## Introduction
 
-Every contributor should remember one thing: Labels on PRs are a must have `gdg-mit-os`, `l1` or `l2` or `l3`.
+Every contributor should remember one thing: Labels on PRs are a must-have: `gdg-mit-os`, `l1`, `l2`, or `l3`.
 - `l1`: 10 points
 - `l2`: 25 points
 - `l3`: 45 points
@@ -30,9 +33,9 @@ Every contributor should remember one thing: Labels on PRs are a must have `gdg-
 ## Important Points for Contributors
 
 - **Meaningful Contributions**: Build your GitHub profile with meaningful badges and PRs.
-- **Manual Verification**: Our team will verify most of your PR.
+- **Manual Verification**: Our team will verify most of your PRs.
 - **Avoid Spam**: Do not submit spam PRs or address similar issues repeatedly.
-- **GitHub Profile**: If all of your contributions are meaningful to the projects, we have the potential to increase perks and opportunities including from the existing project admins. 
+- **GitHub Profile**: If all of your contributions are meaningful to the projects, we have the potential to increase perks and opportunities, including from existing project admins.
 
 ---
 
@@ -51,52 +54,43 @@ For more details on how to contribute to projects, check - [CONTRIBUTING.md](CON
 ## Instructions for Leads and Project Admins (PAs)
 
 - **Fair Issue Assignment**: Follow a first-come, first-served approach.
-- **Avoid Partiality**: Ensure fair assignment of issues, dont let PR without raising issues.
-- **Single Role Participation**: PAs and Mentors should not contribute to the same projects to avoid conflict of interest.
-- **Inactive Projects**: Projects inactive for more than 2 weeks will be removed.
+- **Avoid Partiality**: Ensure fair assignment of issues, don’t let PRs get merged without raising proper issues.
+- **Single Role Participation**: PAs and Mentors should not contribute to the same projects to avoid conflicts of interest.
 
 ---
 
-## Report issues to us
+## Report Issues to Us
 
-- **Minimal Changes**: PRs with minimal changes that are not impactful and getting l2 and l3.
+- **Minimal Changes**: PRs with minimal changes that are not impactful and are being awarded `l2` or `l3` points.
 - **Instant PR Acceptance**: PRs accepted instantly without proper review.
 
 ### Non-Considerable PRs
 
 - Multiple documentation or workflow issues.
 - Exploiting personal connections with PAs or Mentors.
-- Repeated documentation or workflow contributions beyond 200 points.
+- Repeated documentation or workflow contributions.
 - Code snippets or template-related PRs.
 
 ---
 
-### Why are we doing this? - 👍
+### Spam PRs or PRs Won't be Considered:
 
-This is being done keeping everyone in mind for being hardworking enough to contribute something meaningful even if it's something small. We are doing this to make this event fair and memorable for all.
-- Right now we noticed spamming could have happened due to a lack of written guidelines, so for those who people did it, we will be allowing 200 points to gain from merging PR with official Emails and remove other scores.
-- Those who do spam after publishing the guidelines, if we notice we will further level down without any notice. 
+1. If you create multiple issues on documentation or workflow, your PRs won’t be considered.
+2. If you know the PA or mentor and exploit it to make more PRs, your PRs won’t be considered.
+3. If you completely depend on documentation or workflow or GitHub bots, only the first 150 points will be considered. Focus on a variety of contributions.
+4. Contributors, you are free to create any number of PRs in any repos, excluding a few repos listed below. Sticking to a particular repo will help you gain strong knowledge of the project and the tech stack. However, if we notice you spamming PRs or issues, severe action will be taken.
 
----
+#### Note: We request everyone to follow the above guidelines. We aim to make open source accessible to everyone, including beginners. If you follow the instructions, it will help us bring more perks to you. Otherwise, it may push us to verify your PRs more thoroughly.
 
-### Spam PRs or PRs Won't consider:
-1. If you create multiple issues on documentation or workflow. Your PRs won't be considered.
-2. If you know the PA or mentor. If you take advantage of it to make more PRs. Your PRs won't be considered.
-3. If you completely depend on documentation or workflow or GitHub bots, Only the first 150 points will be considered. Focus on a variety of contributions.
-4. Contributors, you are free to create any number of PRs in any repos excluding few repo listed below. Sticking to a particular repo will give you a strong command of the project and the tech stack. However, if we see you spamming PRs or issues, severe action will be taken against you.
-samples: 
-
-#### Note: We request everyone to follow the above guidelines. We aim to make open source accessible to everyone, including beginners. If you all follow the instructions, it will help us bring more perks to you. Otherwise, it will push us to verify your PRs 
 ---
 
 ## Final Notes
 
-We request everyone to follow the above guidelines. Our aim is to make open source accessible to everyone, including beginners. Genuine contributions will help you build healthy relationships and secure good jobs. 
+We request everyone to follow the above guidelines. Our goal is to make open source accessible to everyone, including beginners. Genuine contributions will help you build healthy relationships and secure great job opportunities.
 
 If you find someone violating these rules, please inform us.
 
 Wishing you all a happy contribution!! 👍
 
 Thanks & Regards,  
-
 Team OpenMITation (GDG MIT)
