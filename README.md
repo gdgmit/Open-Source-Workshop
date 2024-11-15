@@ -17,6 +17,7 @@ Before getting started, please review how Open Source Contribution works - [GUID
 - [Meaningful Contribution Guidelines](#meaningful-contribution-guidelines)
 - [Instructions for Leads and Project Admins (PAs)](#instructions-for-leads-and-project-admins-pas)
 - [Report Issues to Us](#report-issues-to-us)
+- [List of Projects](#list-of-projects)
 - [Final Notes](#final-notes)
 
 ---
@@ -82,6 +83,24 @@ For more details on how to contribute to projects, check - [CONTRIBUTING.md](CON
 #### Note: We request everyone to follow the above guidelines. We aim to make open source accessible to everyone, including beginners. If you follow the instructions, it will help us bring more perks to you. Otherwise, it may push us to verify your PRs more thoroughly.
 
 ---
+
+## List of Projects 
+
+| **Project Link**                                                                                     | **Tech Stack**                                    |
+|------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| [Stark Hub](https://github.com/gdgmit/stark-hub)                                                    | HTML, CSS, JS                                    |
+| [Sweet Scoops](https://github.com/gdgmit/sweet-scoops)                                              | HTML, CSS, JS                                    |
+| [Beautiify](https://github.com/gdgmit/Beautiify)                                                    | HTML, CSS, JS                                    |
+| [Frontend Master](https://github.com/gdgmit/frontend-master)                                        | HTML, CSS, JS, React, Tailwind                   |
+| [ChatSphere](https://github.com/gdgmit/ChatSphere)                                                  | HTML, CSS, JS, PHP, MySQL                        |
+| [SCoE Website](https://github.com/gdgmit/scoe-website)                                              | HTML, CSS, JS, PHP, MySQL                        |
+| [Fit Freak](https://github.com/gdgmit/fit-freak)                                                    | React                                            |
+| [AgriTech AI](https://github.com/gdgmit/AgriTech-AI)                                                | React, Node, Express, MongoDB, Flask, Python, Streamlit |
+| [PySnippets](https://github.com/gdgmit/PySnippets)                                                  | Python                                           |
+| [Predictly](https://github.com/gdgmit/predictly)                                                    | Python, Streamlit, ML, DL                        |
+| [EventX](https://github.com/gdgmit/EventX)                                                          | Java, MySQL                                      |
+| [AlgoHub](https://github.com/gdgmit/algohub)                                                        | Markdown, Documentation, C, C++, Python, Java   |
+
 
 ## Final Notes
 
