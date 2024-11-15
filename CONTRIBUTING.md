@@ -1,6 +1,6 @@
 ## Getting Started with Contribution
 
-🛠️B1: Setting Up The Project
+🛠️ Setting Up The Project
 
 1️⃣ 🍴Fork It: Fork the project to create your own copy.
 
