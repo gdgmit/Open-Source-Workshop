@@ -11,6 +11,11 @@ We hope you're all doing great! :octocat:
 Before getting started, please review how Open Source Contribution works - [GUIDELINES.MD](GUIDELINES.md)
 
 --- 
+
+##<h1> TASK LIST </h1>
+
+https://docs.google.com/document/d/1tVGelp93PygUnnFcrchZspv-h_7Zhorrj8vaRlAHl_c/edit?tab=t.0#heading=h.2do2s6f0ubxi
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Important Points for Contributors](#important-points-for-contributors)
