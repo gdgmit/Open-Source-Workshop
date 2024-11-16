@@ -18,6 +18,8 @@ Before getting started, please review how Open Source Contribution works - [GUID
 - [Instructions for Leads and Project Admins (PAs)](#instructions-for-leads-and-project-admins-pas)
 - [Report Issues to Us](#report-issues-to-us)
 - [List of Projects](#list-of-projects)
+- [Github Markdown Resources](#github-markdown-resources)
+- [GitHub README Resources](#github-readme-resources)
 - [Final Notes](#final-notes)
 
 ---
@@ -100,6 +102,21 @@ For more details on how to contribute to projects, check - [CONTRIBUTING.md](CON
 | [Predictly](https://github.com/gdgmit/predictly)                                                    | Python, Streamlit, ML, DL                        |
 | [EventX](https://github.com/gdgmit/EventX)                                                          | Java, MySQL                                      |
 | [AlgoHub](https://github.com/gdgmit/algohub)                                                        | Markdown, Documentation, C, C++, Python, Java   |
+
+## GitHub Markdown Resources
+
+- [Markdown Cheatsheet by lifeparticle](https://github.com/lifeparticle/Markdown-Cheatsheet)
+- [Markdown Cheat Sheet on GeeksforGeeks](https://www.geeksforgeeks.org/markdown-cheat-sheet-github/)
+- [GitHub Docs: Quickstart for Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-GitHub)
+
+## GitHub README Resources
+
+- [Profile README Generator](https://profile-readme-generator.com/)
+- [GitHub Profile README Maker](https://gprm.itsvg.in/)
+- [Readme.so: README Generator](https://readme.so/)
+- [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [Recode Hive: Awesome GitHub Profiles](https://recodehive.github.io/awesome-github-profiles/)
+
 
 
 ## Final Notes
