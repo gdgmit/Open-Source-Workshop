@@ -97,7 +97,9 @@ For more details on how to contribute to projects, check - [CONTRIBUTING.md](CON
 | [ChatSphere](https://github.com/gdgmit/ChatSphere)                                                  | HTML, CSS, JS, PHP, MySQL                        |
 | [SCoE Website](https://github.com/gdgmit/scoe-website)                                              | HTML, CSS, JS, PHP, MySQL                        |
 | [Fit Freak](https://github.com/gdgmit/fit-freak)                                                    | React                                            |
+| [React Projects](https://github.com/gdgmit/react-projects)                                          | React                                            |
 | [AgriTech AI](https://github.com/gdgmit/AgriTech-AI)                                                | React, Node, Express, MongoDB, Flask, Python, Streamlit |
+| [Code Racher](https://github.com/gdgmit/code-racer)                                                 | Next js, Tailwind, Typescript                    |
 | [PySnippets](https://github.com/gdgmit/PySnippets)                                                  | Python                                           |
 | [Predictly](https://github.com/gdgmit/predictly)                                                    | Python, Streamlit, ML, DL                        |
 | [EventX](https://github.com/gdgmit/EventX)                                                          | Java, MySQL                                      |
