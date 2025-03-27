@@ -62,3 +62,5 @@ $ git push -u origin <your_branch_name>
 🚀 Contribute, and let's make a difference together in the open-source community! Happy coding! 🎉
 
 ## done the tasks
+
+## updated the problems related to the UI
